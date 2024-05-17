@@ -36,7 +36,7 @@
   [FIRApp configure];
   
   //GoogleMap API Key
-  [GMSServices provideAPIKey:@"AIzaSyCPdxgzKwBL6qacDJikPcKEcX6nGfgXcUM"];
+  [GMSServices provideAPIKey:@"your key"];
   
   [RNSplashScreen show];
   return YES;
